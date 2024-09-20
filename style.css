@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0px;
+font-family: Georgia;
+}
+button{
+    border-radius: 30px;
+    width: 150px;
+    height: 50px;
+    background: linear-gradient(rgb(7, 138, 203),rgb(40, 185, 238),rgb(7, 138, 203));
+    font-size: 1.3rem;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0px 20px 20px;
+    font-size: 1.5rem;
+   background: linear-gradient(rgb(238,40,182),rgb(192,10,83),rgb(139,4,146));
+    
+}
+.rgt{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 20px 0px 20px;
+}
+
+.about{
+    margin: 0px 20px 0px 20px;
+}
+.home{
+    margin: 0px 20px 0px 20px;
+}
+.menu{
+    margin: 0px 20px 0px 20px;
+}
+.contact{
+    margin: 0px 20px 0px 20px;
+}
